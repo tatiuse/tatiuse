@@ -1,5 +1,4 @@
-<h1 align="center">Доброго времени суток, меня зовут Таня <h1>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Доброго времени суток, меня зовут Таня </h1>
 <h4 align="center">Cтремлюсь стать хорошим разработчиком, поэтому изучаю новое и ищу способы улучшения своего кода. <br>Если у Вас есть советы или предложения о сотрудничестве, то Вам
 <a href="https://t.me/tishe_tania" target="_blank">сюда</a>
 </h4>
